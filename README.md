@@ -12,4 +12,4 @@ This code contains three experiments, testing an ANN with various weights matric
 
 - Confusion tests, showing the phase transition using the BiEntropy.
 - Diffusion testing showing the hamming distance between input and output.
-- Diffusion testing showing the hamming distance between outputs when bit are flipped in the input.
+- Diffusion testing showing the hamming distance between outputs when bits are flipped in the input.
